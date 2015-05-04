@@ -1,2 +1,2 @@
 # codeigniter-egn-helper
-codeigniter eng helper - 
+A CodeIgniter helper for validation of EGN (personal identification numbers for Bulgarian citizens)
