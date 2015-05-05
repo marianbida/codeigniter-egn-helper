@@ -1,4 +1,4 @@
-# codeigniter-egn-helper
+# CodeIgniter EGN helper
 A CodeIgniter helper for validation of EGN (personal identification numbers for Bulgarian citizens)
 
 // load helper, in controller or model
